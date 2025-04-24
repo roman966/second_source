@@ -22,12 +22,9 @@ cd second_source
 
 ```bash
 composer install
-
-cp .env.example .env
-
 ```
 ### 3.DB SETUP
-
+Make an .env from .env.example
 ```
 DB_DATABASE=second_source
 DB_USERNAME=your_mysql_user
