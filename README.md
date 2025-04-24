@@ -15,7 +15,7 @@ This project is a Laravel RESTful API that includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/roman/second_source.git
+git clone https://github.com/roman966/second_source.git
 cd second_source
 ```
 ### 2.Run these command
